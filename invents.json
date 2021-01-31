@@ -1,0 +1,56 @@
+[{
+    "id": 1,
+    "autor": "AUTOR: Innova Elektriks", 
+    "titul": "BOMBILLA FLOTANT",
+    "srcimg": "https://cdn.discordapp.com/attachments/691317600910573598/804779301165334528/bobmilla.jpg",
+    "alt": "Imatge d'una bombilla flotant",
+    "text": " La nova creació d'Innova Elektriks sorprèn a tothom gràcies a la levitació magnètica.",
+    "url": "https://www.tomtop.com/es/p-os2216uk.html?currency=EUR&Warehouse=CN&aid=gssceshxy"
+},
+{
+    "id": 2,
+    "autor": "AUTOR: Lennovo",
+    "titul": "YOGA BOOK",
+    "srcimg": "https://cdn.discordapp.com/attachments/691317600910573598/804778609528799232/yoga_book.jpg",
+    "alt": "Imatge de l'invent Yoga Book",
+    "text": "Ja ha arribat el ultim model de portatil de Lennovo amb un disseny innovador amb 2 pantalles que eliminen el teclat!",
+    "url": "https://www.lenovo.com/es/es/yoga-book/"
+},
+{
+    "id": 3,
+    "autor": "AUTOR: Hacksmith Industries",
+    "titul": "LA PRIMERA ESPASA LÀSER!",
+    "srcimg": "https://cdn.discordapp.com/attachments/691317600910573598/804778362265534484/ligthsaber_2.jpg",
+    "alt": "Imatge d'una espasa làser",
+    "text": "Aquest es el ultim projecte del taller, hem aconseguit crear una espasa làser funcional!",
+    "url": "https://www.youtube.com/watch?v=xC6J4T_hUKg"
+},
+{
+    "id": 4,
+    "autor": "AUTOR: KFC",
+    "titul": "LA CONSOLA DE KFC",
+    "srcimg": "https://cdn.discordapp.com/attachments/691317600910573598/804777911013605396/kfc_consol.jpg",
+    "alt": "Imatge de la consola de KFC",
+    "text": "KFC enganya a tothom el dia dels innocents amb la presentació de la seva pròpia consola!",
+    "url": "https://as.com/meristation/2020/12/23/noticias/1608734960_051016.html"
+},
+{
+    "id": 5,
+    "autor": "AUTOR: Anbernic",
+    "titul": "LA REVOLUCIÓ DE L'EMULACIÓ PORTÀTIL",
+    "srcimg": "https://cdn.discordapp.com/attachments/691317600910573598/804775812422697040/anabernic_console.jpg",
+    "alt": "Imatge de la consola portàtil d'Anbernic",
+    "text": "El nou model de consola portàtil d'Anbernic demostra ser capaç d'emular la Wii i la PlayStation 3.",
+    "url": "https://www.anbernic.com/"
+},
+{
+    "id": 6,
+    "autor": "AUTOR: Philip Frenzel",
+    "titul": "CREEN UNA FUNDA ANTICAIGUDES",
+    "srcimg": "https://cdn.discordapp.com/attachments/691317600910573598/804775863173251122/anti_fall_phone_case.jpg",
+    "alt": "Imatge de la funda anticaigudes",
+    "text": "Un jove estudiant universitari alemany crea una funda anticaigudes i la patenta al mateix dia amb el nom de 'Spider-App'.",
+    "url": "https://cadenaser.com/ser/2018/06/28/ciencia/1530202925_522803.html"
+}
+
+]
